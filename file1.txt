@@ -1,0 +1,2 @@
+welcome to bash
+write the code
