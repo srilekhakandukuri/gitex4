@@ -1,3 +1,5 @@
 welcome to bash
 write the code
 execute the code
+compile the code
+get the output
