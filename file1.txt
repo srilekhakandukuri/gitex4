@@ -1,2 +1,3 @@
 welcome to bash
 write the code
+execute the code
